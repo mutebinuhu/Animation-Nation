@@ -3556,6 +3556,13 @@
     imageLink: "./Art/visiona/tronix.gif",
     author: "visiona",
     githubLink: "https://github.com/visiona"
+  },
+  {
+    artName: "Loading",
+    pageLink: "./Art/mutebinuhu/index.html",
+    imageLink: "./Art/mutebi/loading.jpg",
+    author: "mutebinuhu",
+    githubLink: "https://github.com/mutebinuhu"
   }
       
 ]
